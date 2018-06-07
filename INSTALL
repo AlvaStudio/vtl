@@ -1,0 +1,9 @@
+Building Vitalium
+
+See doc/readme-qt.rst for instructions on building Vitalium-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Vitalium.
+
+See doc/build-*.txt for instructions on building vitaliumd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Vitalium.

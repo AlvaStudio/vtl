@@ -1,0 +1,34 @@
+src/*.exe
+src/vitalium
+src/vitaliumd
+src/test_vitalium
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.vitalium
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+vitalium-qt
+Vitalium-Qt.app
+
+# Unit-tests
+Makefile.test
+vitalium-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
