@@ -1178,7 +1178,7 @@ static const char *strMainNetDNSSeed[][2] = {
 };
 
 static const char *strTestNetDNSSeed[][2] = {
-    {"vitaliumtools.com", "node-test.vitalium.site"},
+    {"vitalium.site", "node-test.vitalium.site"},
     {NULL, NULL}
 };
 
